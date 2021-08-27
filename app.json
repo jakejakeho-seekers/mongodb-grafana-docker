@@ -1,0 +1,7 @@
+{
+  "name": "mongodb-grafana proxy on Heroku",
+  "description": "Build mongodb-grafana proxy docker image on Heroku",
+  "repository": "https://github.com/jakejakeho-seekers/mongodb-grafana-docker",
+  "keywords": ["mongodb-grafana", "heroku", "docker"],
+  "stack": "container"
+}
